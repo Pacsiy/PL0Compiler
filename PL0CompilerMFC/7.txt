@@ -1,0 +1,11 @@
+const A = 1
+var a,b,c;
+begin
+	a = A+1;
+	b = A+2;
+	c = A+3;
+	if a>b write(a)
+	else write(b);
+	
+	write(c)
+end.

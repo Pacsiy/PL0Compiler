@@ -1,0 +1,13 @@
+﻿  PL0CompilerMFCDlg.cpp
+PL0CompilerMFCDlg.cpp(278): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+PL0CompilerMFCDlg.cpp(339): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+PL0CompilerMFCDlg.cpp(382): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  console.cpp
+  syntax.cpp
+  正在生成代码
+  58 of 654 functions ( 8.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PL0CompilerMFC.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab3\PL0Compiler\PL0CompilerMFC\Release\PL0CompilerMFC.exe
+  PL0CompilerMFC.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab3\PL0Compiler\PL0CompilerMFC\Release\PL0CompilerMFC.pdb (Full PDB)

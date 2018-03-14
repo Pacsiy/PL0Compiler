@@ -1,0 +1,6 @@
+﻿  PL0CompilerMFCDlg.cpp
+e:\studying\myhomework_classthreefs\compilation\cplab3\pl0compiler\pl0compilermfc\pl0compilermfc\pl0compilermfcdlg.cpp(285): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+e:\studying\myhomework_classthreefs\compilation\cplab3\pl0compiler\pl0compilermfc\pl0compilermfc\pl0compilermfcdlg.cpp(346): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+e:\studying\myhomework_classthreefs\compilation\cplab3\pl0compiler\pl0compilermfc\pl0compilermfc\pl0compilermfcdlg.cpp(389): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  PL0CompilerMFC.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab3\PL0Compiler\PL0CompilerMFC\Debug\PL0CompilerMFC.exe
+  PL0CompilerMFC.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab3\PL0Compiler\PL0CompilerMFC\Debug\PL0CompilerMFC.pdb (Full PDB)

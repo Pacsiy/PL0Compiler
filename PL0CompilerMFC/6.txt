@@ -1,0 +1,9 @@
+var a,b;
+begin
+	a:=5;
+	b:=5;
+	repeat write(b);
+		a:=a-1;
+		b:=b-1
+	until a<0;
+end.
